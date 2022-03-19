@@ -1,4 +1,4 @@
-### 077_IS_Prototype
+
 # Problem Statement:
 Online banking makes our life easier. Nowadays we are using credit/debit card to purchase products online. Is it safe?
 The pandemic has led to increased crime risk all around the world and credit/debit card fraud is one of them. People are facing some problems like some unknown person had withdrawn money or made transaction through their cards through online purchasing. Recently, I have seen that one of my family members faced this problem. He got a message that someone used his credit card to purchase a costly item. Here, it is also important to mention that card is not lost. After getting this message, he blocked this card immediately to avoid this and applied for a new card. Unfortunately, we can’t say that in future this will not happen with the new one.
