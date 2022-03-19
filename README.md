@@ -8,3 +8,9 @@ In our country, there are many people those have debit/credit cards, but they do
 In proposed System, user’s spending pattern as well as location will be used to verify his identity using machine learning. If any unusual pattern is detected, the system requires reverification. Because there is a chance that due lack of significant amount of previous record, system is predicting normal transaction as fraudulent one. Here, more than 20-30% deviation of user transaction (spending history and operating country) is considered as an invalid attempt and system will take an action.
 If the prediction is that the transaction is fraudulent, an SMS warning will be sent to the customer for confirmation before the amount is going to be deducted from the account.
 
+                    ![image](https://user-images.githubusercontent.com/78656082/159110533-7c343257-f9f6-4e30-8be2-466a8657d5eb.png)
+
+                 
+                 
+
+
